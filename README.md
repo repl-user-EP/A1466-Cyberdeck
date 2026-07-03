@@ -3,4 +3,4 @@ This Repo is for storing all my files and software stuff for my cyberdeck projec
 <hr>
 <br>
 *This is by no means a tutorial or guide, this is purely what I have done.*
-Apologies in advance for bad design. It currently works on its own power.
+Apologies in advance for bad design. 
