@@ -18,3 +18,7 @@ When the BMS loses power it has to relearn what is full.*
 
 ## Keyboard
  - Painstakingly drilled all 60 or so rivets out of the chassis, proceeded to carefully take out keyboard. I removed all keycaps first.
+
+## Screen
+ - Tried to salvage original screen, managed to crack it (hate the Apple adhesives).
+ - Bought [this](https://www.amazon.com.au/gp/product/B0DG5RZ7TR?smid=A1WZ6HDA5XZ4FQ&psc=1) screen from Amazon. 12.3" touchscreen from waveshare.
