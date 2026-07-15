@@ -8,6 +8,9 @@ Took some time to verify the connections were the correct polarity before solder
  - *Note: the percentage battery on the desktop will read incorrectly until the cells are charged to full a couple times. 
 When the BMS loses power it has to relearn what is full.*
  - Cells are mounted in the handles as I didn't have space in the body
+ - **Will try to make a diagram for polarity in future**
+
+
 
 <br>
 
