@@ -8,6 +8,10 @@ Took some time to verify the connections were the correct polarity before solder
  - *Note: the percentage battery on the desktop will read incorrectly until the cells are charged to full a couple times. 
 When the BMS loses power it has to relearn what is full.*
  - Cells are mounted in the handles as I didn't have space in the body
+ - BMS Silkscreen should tell you which way cells should go. Make sure to confirm with multimeter connections.
+     - Verify GND, should connect to pad labelled 0V/0V1
+     - Connect + of cell to 4V1/4V labelled pad
+     - Connect next cell '-' to 4V2/4V3 labelled pad, then postive of cell to 8V/8V1
  - **Will try to make a diagram for polarity in future**
 
 
