@@ -1,0 +1,35 @@
+/* Style all buttons inside the application */
+* {
+    font-family: 'JetBrains Mono',monospace;
+}
+QPushButton {
+    background-color: #2ecc71;
+    border: 2px solid #27ae60;
+    color: white;
+}
+
+/* Target a unique widget name */
+#submitButton {
+    font-weight: bold;
+}
+#Status {
+    font-size:16px;
+    font-weight:bold;
+    position:absolute;
+    background: lightblue;
+    border-radius: 3px;
+    padding:3px;
+}
+#Connector #refresh {
+    font-size:14px;
+    /*font-family:SegoeUI;*/
+    font-weight:bold;
+    position:absolute;
+    background:rgb(51, 139, 98);
+    border:none;
+    border-radius:5px;
+    padding:7px;
+}
+#Connector:pressed {
+    background:rgb(15, 92, 54);
+}
